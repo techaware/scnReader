@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: hudson
+Build-Jdk: 1.6.0_21
+x-sap-ui-BuildTimestamp: 201201151748
+x-sap-ui-ScmRevision: ac0573cb31439a02fc5c6a2a1c51f892b2664067 
+x-sap-ui5-BuildTimestamp: 201201151748
+x-sap-ui5-ScmRevision: ac0573cb31439a02fc5c6a2a1c51f892b2664067 
+
